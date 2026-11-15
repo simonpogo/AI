@@ -13,5 +13,6 @@ Ta naloga ni specifična za AI in bi jo lažje rešili s preprostim programom...
 Za cilj naloge smo si zadali nalogo: Prepoznati študenta ali je Piflar, Žurer ali pa Uravnotežen :-)
 To bo algoritem sam prepoznal na osnovi dveh podatkov: koliko se uči in koliko se zabava (št. ur/teden)
 Uporabili bomo algoritem K-means (K=3)
+
 *Tukaj imamo en primer nenadzorovanega učenja:*
-ML_studenti_navade_K_means
+**ML_studenti_navade_K_means**
